@@ -44,11 +44,11 @@ https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B4%D0%B6%D0%B5%D0%BA#%
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19" align="right">2</td>
-  <td class="xl1524520">Готовность участником к игре</td>
+  <td class="xl1524520">Готовность участников к игре</td>
   <td class="xl1524520">Состояние перед игрой, до раздачи колод</td>
-  <td class="xl1524520">Проверяем наличие участников(0 дилеров и 0 игроков,1
-  дилер и 0 игроков, 0 дилеров и 1 игрок,1 дилер и 1 игрок,2 дилера и 1
-  игрока,1 дилер и 5 игроков)</td>
+  <td class="xl1524520">Проверяем наличие участников ( 0 дилеров и 0 игроков, 1
+  дилер и 0 игроков, 0 дилеров и 1 игрок, 1 дилер и 1 игрок, 2 дилера и 1
+  игрока, 1 дилер и 5 игроков)</td>
   <td class="xl1524520">Обязательно 1 дилер и хотя бы 1 игрок</td>
  </tr>
  <tr style="height:14.5pt" height="19">
@@ -134,21 +134,7 @@ https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B4%D0%B6%D0%B5%D0%BA#%
   <td class="xl1524520">5.6 карта "картинка", новая сумма больше 21</td>
   <td class="xl1524520">увеличение суммы на 10</td>
  </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
+  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19" align="right">6</td>
   <td class="xl1524520">Проверка ситуации "пуш"</td>
   <td class="xl1524520">В процессе игры</td>
@@ -168,67 +154,43 @@ https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B4%D0%B6%D0%B5%D0%BA#%
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
-  <td class="xl1524520">у игрока 21, у дилера туз + 7<span style="mso-spacerun:yes">&nbsp;</span></td>
-  <td class="xl1524520">7.1 у<span style="mso-spacerun:yes">&nbsp; </span>какого-то
-  игрока 21 очко, у дилера карта не 10, не картинка или не туз</td>
+  <td class="xl1524520">у игрока 21, у дилера 7<span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl1524520">7.1 игрок берет выигрыш</td>
   <td class="xl1524520">блек-джек у игрока, игроку выплачивается выигрыш 3 к 2
   (то есть в 1,5 раза превышающий его ставку),игра продолжается</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
-  <td class="xl1524520">у игрока 21, у дилера туз + 8<span style="mso-spacerun:yes">&nbsp;</span></td>
-  <td class="xl1524520">7.2 у<span style="mso-spacerun:yes">&nbsp; </span>какого-то
-  игрока 21 очко, у дилера<span style="mso-spacerun:yes">&nbsp; </span>карта туз,
-  игрок берет выигрыш</td>
+  <td class="xl1524520">у игрока 21, у дилера туз <span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl1524520">7.2 игрок берет выигрыш</td>
   <td class="xl1524520">игрок получает выигрыш 1:1, игра продолжается</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
-  <td class="xl1524520">у игрока 21, у дилера туз + 9</td>
-  <td class="xl1524520">7.3 у<span style="mso-spacerun:yes">&nbsp; </span>какого-то
-  игрока 21 очко, у дилера<span style="mso-spacerun:yes">&nbsp; </span>карта туз,
-  игрок не берет выигрыш, раздаем карты игрокам,в конце игры у дилера не
-  блек-джет</td>
-  <td class="xl1524520">по завершени игры игрок получает выигрыш 3 к 2,игра
-  продолжается</td>
+  <td class="xl1524520">у игрока 21, у дилера туз</td>
+  <td class="xl1524520">7.3 игрок не берет выигрыш, раздаем карты игрокам, дилеру выдаем карту 9, в конце игры у дилера не
+  блек-джек</td>
+  <td class="xl1524520">по завершению игры игрок получает выигрыш 3 к 2</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
-  <td class="xl1524520">у игрока 21, у дилера туз + 10</td>
-  <td class="xl1524520">7.4 у<span style="mso-spacerun:yes">&nbsp; </span>какого-то
-  игрока 21 очко, у дилера<span style="mso-spacerun:yes">&nbsp; </span>карта(туз,
-  игрок не берет выигрыш, в первых двух картах у дилера блек-джек</td>
+  <td class="xl1524520">у игрока 21, у дилера туз</td>
+  <td class="xl1524520">7.4 игрок не берет выигрыш,дилеру выдаем карту 10, в первых двух картах у дилера блек-джек</td>
   <td class="xl1524520">проигрыш всех игроков у кого не блек-джек, не страховка и
   не забранный выигрыш</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
-  <td class="xl1524520">у игрока 21, у дилера 10 + туз</td>
-  <td class="xl1524520">7.5 у<span style="mso-spacerun:yes">&nbsp; </span>какого-то
-  игрока 21 очко, у дилера<span style="mso-spacerun:yes">&nbsp; </span>карта(туз,
-  игрок не берет выигрыш, в первых двух картах у дилера блек-джек</td>
+  <td class="xl1524520">у игрока 21, у дилера 10</td>
+  <td class="xl1524520">7.5 игрок не берет выигрыш, дилеру выдаем туз в первых двух картах у дилера блек-джек</td>
   <td class="xl1524520">проигрыш всех игроков у кого не блек-джек, не страховка и
   не забранный выигрыш</td>
  </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
+  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19" align="right">8</td>
   <td class="xl1524520">блек-джек по двум картам у дилера</td>
   <td class="xl1524520">В процессе игры</td>
@@ -241,25 +203,14 @@ https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B4%D0%B6%D0%B5%D0%BA#%
   <td class="xl1524520"></td>
   <td class="xl1524520">у игроков меньше 21</td>
   <td class="xl1524520">8.1 первая карта 10, вторая туз<span style="mso-spacerun:yes">&nbsp;</span></td>
-  <td class="xl1524520">проигрыш всех игроков у кого не блек-джек, игроки с
-  блек-джеком остаются при своих ставках, если они ранее не выбрали взять
-  выигрыш 1 к 1 или если не застраховали свою комбинацию от блек-джека</td>
+  <td class="xl1524520">проигрыш всех игроков</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
   <td class="xl1524520">у игроков меньше 21</td>
   <td class="xl1524520">8.2 первая туз, вторая 10</td>
-  <td class="xl1524520">проигрыш всех игроков у кого не блек-джек, игроки с
-  блек-джеком остаются при своих ставках, если они ранее не выбрали взять
-  выигрыш 1 к 1 или если не застраховали свою комбинацию от блек-джека</td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
+  <td class="xl1524520">проигрыш всех игроков</td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19" align="right">9</td>
@@ -273,30 +224,9 @@ https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B4%D0%B6%D0%B5%D0%BA#%
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
   <td class="xl1524520"></td>
   <td class="xl1524520">исходная сумма у игрока 17</td>
-  <td class="xl1524520">выдаем курту 8</td>
+  <td class="xl1524520">выдаем карту 8</td>
   <td class="xl1524520">ситуация "перебор", снятие ставки игрока в
   пользу казино</td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
- </tr>
- <tr style="height:14.5pt" height="19">
-  <td class="xl1524520" style="height:14.5pt" height="19"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
-  <td class="xl1524520"></td>
  </tr>
  <tr style="height:14.5pt" height="19">
   <td class="xl1524520" style="height:14.5pt" height="19"></td>
